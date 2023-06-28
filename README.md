@@ -1,2 +1,2 @@
 # flexBox
-Prueba de flexbox
+Prueba de flexbox. Hecho en el bootcamps de tecnoloChicas
